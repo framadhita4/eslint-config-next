@@ -1,7 +1,7 @@
 {
   "name": "@framadhita4/eslint-config-next",
   "version": "1.0.0",
-  "description": "",
+  "description": "A comprehensive ESLint configuration for modern JavaScript, TypeScript, React, and Next.js projects",
   "type": "module",
   "main": "index.js",
   "peerDependencies": {
@@ -11,9 +11,15 @@
   },
   "keywords": [
     "eslint",
-    "eslintconfig"
+    "eslintconfig",
+    "eslint-config",
+    "react",
+    "nextjs",
+    "typescript",
+    "prettier",
+    "tanstack-query"
   ],
-  "author": "",
+  "author": "framadhita4",
   "license": "ISC",
   "dependencies": {
     "@eslint/eslintrc": "^3.3.3",
